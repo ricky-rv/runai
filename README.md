@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="runai/runai.png" alt="runai" width="120" />
+  <img src="https://raw.githubusercontent.com/ricky-rv/runai/refs/heads/main/runai.png" alt="runai" width="120" />
 </p>
 
 <h1 align="center">runai</h1>
