@@ -22,7 +22,7 @@ runai helloworld.runai
 
 ```bash
 pip install openai
-git clone https://github.com/yourusername/runai.git
+git clone https://github.com/ricky-rv/runai.git
 cd runai
 pip install -e .
 ```
