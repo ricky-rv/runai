@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ricky-rv/runai/refs/heads/main/runai.png" alt="runai" width="120" />
 </p>
 
-<h1 align="center">runai</h1>
+<h1 align="center">RunAI</h1>
 
 <p align="center">
   <strong>Write English. Run it.</strong>
