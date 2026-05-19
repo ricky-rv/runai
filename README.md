@@ -19,21 +19,6 @@
 
 **runai** is a new kind of runtime. Instead of writing code, you write what you want in plain English — and `runai` executes it.
 
-No IDE. No syntax. Just intent.
-
-```bash
-runai countries.runai
-```
-
-```
-Afghanistan
-Albania
-Algeria
-...
-```
-
----
-
 ## Install
 
 ```bash
@@ -80,6 +65,16 @@ Then run it:
 ```bash
 runai countries.runai
 ```
+
+```
+Afghanistan
+Albania
+Algeria
+...
+```
+
+---
+
 
 That's it.
 
