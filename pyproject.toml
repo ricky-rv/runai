@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "runai"
+name = "runai-python"
 version = "0.1.0"
 description = "Run natural language like code"
 readme = "README.md"
